@@ -1,0 +1,18 @@
+Hokki Bear-Koin
+Daftar:
+-Pergantian sistem koin dengan sistem kredit
+Keuntungan:
+-Hemat dana untuuk pembuatan koin
+Pengalaman anda dalam mengelola file:
+-Tidak terlalu ahli namun saya sudah menguasai cara-cara atau teknik dasar manajemen file.Metadata dapat saya dengan pemberian panduan.
+Kasus:
+-Pembobolan database atau pembuatan Pornografi atau permainan judi,karena Metadata dapat mengungkapkan detail penting,seperti lokasi perangkat  pada waktu tertentu atau pembuat dokumen.
+
+
+
+
+Nama program:
+-System Credit Hokki Bear
+Deskripsi & penggunaan:
+=>Penggunaan= user mengesek pada mesin kartu arkade
+=>Deskripsi= kartu dengan sistem "dana"
